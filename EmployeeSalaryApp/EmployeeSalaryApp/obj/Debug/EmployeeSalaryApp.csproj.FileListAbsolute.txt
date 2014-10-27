@@ -1,0 +1,9 @@
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.SalaryUI.resources
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+c:\users\nahid\documents\visual studio 2013\Projects\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
